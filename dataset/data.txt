@@ -1,1 +1,11 @@
-#This is a test file
+Dataset Source
+
+Soccer Database
+
+This soccer database comes from Kaggle and is well suited for data analysis and machine learning. It contains data for soccer matches, players, and teams from several European countries from 2008 to 2016. This dataset is quite extensive, and we encourage you to read more about it here - https://www.kaggle.com/hugomathien/soccer
+
+    The database is stored in a SQLite database. You can access database files using software like DB Browser.
+    This dataset will help you get good practice with your SQL joins. Make sure to look at how the different tables relate to each other.
+    Some column titles should be self-explanatory, and others you’ll have to look up on Kaggle
+
+The dataset, which is a sqlite-db can be downloaded from here - https://www.google.com/url?q=https://d17h27t6h515a5.cloudfront.net/topher/2017/November/5a0a4cad_database/database.sqlite&sa=D&ust=1528915832149000e
